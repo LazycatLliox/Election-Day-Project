@@ -89,6 +89,9 @@ a {
     background-color: #032D61;
     padding: 10%;
 }
+img{
+    width: 25%;
+}
 
 /*------- Responsive Images -------*/
 img{
